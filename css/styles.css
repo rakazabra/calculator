@@ -20,7 +20,7 @@ max-width: 500px;
     #keys {
         display: grid;
         grid-template-columns: repeat(4, 1fr);
-        gap: 10px;
+        gap: 9px;
         padding: 20px;
     }
     
